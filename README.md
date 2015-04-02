@@ -1,7 +1,7 @@
 # c9couch
 Access to CouchDB Futon from Cloud9 IDE for Node.JS project
 
-Cloud9 IDE does not provide a way to access to Futon - web admin interface to CouchDB. This script do nothing that forward http requests to couchdb. It helps to work with Futon.
+Cloud9 IDE does not provide a way to access to Futon - web admin interface to CouchDB. This script do nothing but forward http requests to couchdb. It helps to work with Futon.
 
 ## Use
 
