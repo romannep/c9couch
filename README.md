@@ -18,4 +18,4 @@ Run script
 
     node c9couch.js
     
-Now you can access Futon from web browser at **/_utils/** (Ex.: https://c9couch-romannep1.c9.io/_utils/ )
+Now you can access Futon from web browser at **/_utils/** (Ex.: https://c9couch-username.c9.io/_utils/ )
